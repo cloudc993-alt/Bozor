@@ -1,0 +1,6 @@
+{
+  "name": "OlovPhone — Onlayn Telefon Bozori",
+  "description": "Zamonaviy smartfonlar onlayn do'koni: olovrang, oq va qora dizayn, tezkor onlayn buyurtma, real vaqtda Telegram kanalga yuborish va admin boshqaruv paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
